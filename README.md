@@ -1,6 +1,6 @@
 # Google-Cyber-Security-Portfolio
 
-Here you will find all of the projects for my Cyber Security Portfolio that I have done whilst completing the Google Cybersecurity Professional Certificate.
+Here you will find all of the projects/activities for my Cyber Security Portfolio that I have done whilst completing the Google Cybersecurity Professional Certificate.
 
 In this course I gained foundational knowledge that will prepare me for entry-level jobs in cybersecurity and help me understand how security teams protect their organizations and its customers.
 
