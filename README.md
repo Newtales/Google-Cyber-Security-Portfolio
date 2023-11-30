@@ -46,11 +46,11 @@ Play It Safe: Manage Security Risks - ✔️
   <li>Stakeholders Memorandum</li>
 <br>
 Connect and Protect: Networks and Network Security - ✔️
-<li>Analyze Network Attacks</li>
-<li>Analysis of Network Hardening</li>
-<li>Analyze Network Layer Communications</li>
-<li>Apply OS Hardening Techniques</li>
-<li>NIST Incident Report Analysis</li>
+  <li>Analyze Network Attacks</li>
+  <li>Analysis of Network Hardening</li>
+  <li>Analyze Network Layer Communications</li>
+  <li>Apply OS Hardening Techniques</li>
+  <li>NIST Incident Report Analysis</li>
 <br>
 Tools of the Trade: Linux and SQL
 <li></li>
