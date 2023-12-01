@@ -39,16 +39,25 @@ Play It Safe: Manage Security Risks - ✔️
   <li>Compliance Checklist</li>
   <li>Controls Assesment Checklist/Priority</li>
   <li>Stakeholders Memorandum</li>
+  
 <br>
+
 Connect and Protect: Networks and Network Security - ✔️
   <li>Analyze Network Attacks</li>
   <li>Analysis of Network Hardening</li>
   <li>Analyze Network Layer Communications</li>
   <li>Apply OS Hardening Techniques</li>
   <li>NIST Incident Report Analysis</li>
+  
 <br>
+
+Tools of the Trade: Linux & SQL -
+  <li></li>
+  
+<br>
+
 Assets, Threats, and Vulnerabilities
-<li></li>
+  <li></li>
 <br>
 Sound the Alarm: Detection and Response
 <li></li>
