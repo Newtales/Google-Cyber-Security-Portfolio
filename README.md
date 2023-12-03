@@ -75,8 +75,5 @@ Sound the Alarm: Detection and Response - ✔️
 
 <br>
 
-Automate Cybersecurity Tasks with Python - 
-
-<br>
-
-<li></li>
+Automate Cybersecurity Tasks with Python - ✔️
+<li>Update Files through a Python Algorithm</li>
