@@ -32,6 +32,9 @@ And I was able to brush up on a lot of fundamental information and develop even 
 
 <br>
 
+Certificate:
+<img src="https://coursera.org/share/abe48b278a024ffc4585a07cd829f8be">
+
 ***The focus of this Portfolio was to gather, improve and complete activies related to Cyber Security and presented in Google's Professional Cyber Security Specialization offered through Coursera.*** <br>
 
 Play It Safe: Manage Security Risks - ✔️
@@ -51,15 +54,25 @@ Connect and Protect: Networks and Network Security - ✔️
   
 <br>
 
-Tools of the Trade: Linux & SQL -
-  <li></li>
+Tools of the Trade: Linux & SQL - ✔️
+  <li>Manage File Permissions Linux</li>
+  <li>Apply Filters to SQL Queries</li>
   
 <br>
 
-Assets, Threats, and Vulnerabilities
-  <li></li>
+Assets, Threats, and Vulnerabilities - ✔️
+  <li>Analyze a Vulnerable System for a Small Business</li>
+
 <br>
-Sound the Alarm: Detection and Response
+
+Sound the Alarm: Detection and Response - ✔️
+<li>Document Incident Handler's Journal (with template)</li>
+<li>Finalize Incident Handler's Journal</li>
+
+<br>
+
+Automate Cybersecurity Tasks with Python - 
+
+<br>
+
 <li></li>
-<br>
-Automate Cybersecurity Tasks with Python
