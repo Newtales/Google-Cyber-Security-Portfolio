@@ -1,6 +1,15 @@
 # Google-Cyber-Security-Portfolio
 
-Here you will find all of the projects/activities for my Cyber Security Portfolio that I have done whilst completing the Google Cybersecurity Professional Certificate.
+Certificate:
+<img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~ENRASN5P4CZQ/CERTIFICATE_LANDING_PAGE~ENRASN5P4CZQ.jpeg" alt="View certificate for Miguel Filiol de Raimond, Google Cybersecurity, offered through Coursera. Those who earn the Google Cybersecurity Certificate have completed eight courses, developed by Google, that include hands-on, practice-based assessments and are designed to prepare them for entry-level roles in cybersecurity. They are competent in beginner-level Python, Linux, SQL, Security Information and Event Management (SIEM) tools, and Intrusion Detection Systems (IDS). They know how to identify common cybersecurity risks, threats, and vulnerabilities, as well as the techniques to mitigate."/>
+
+Certificate for Miguel Filiol de Raimond, Google Cybersecurity, offered through Coursera. 
+
+Those who earn the Google Cybersecurity Certificate have completed eight courses, developed by Google, that include hands-on, practice-based assessments and are designed to prepare them for entry-level roles in cybersecurity. 
+
+They are competent in beginner-level Python, Linux, SQL, Security Information and Event Management (SIEM) tools, and Intrusion Detection Systems (IDS). They know how to identify common cybersecurity risks, threats, and vulnerabilities, as well as the techniques to mitigate.
+
+***The focus of this Portfolio was to gather, improve and complete activies related to Cyber Security and presented in Google's Professional Cyber Security Specialization offered through Coursera.*** 
 
 This course covered topics such as:
 
@@ -26,23 +35,13 @@ And I was able to brush up on a lot of fundamental information and develop even 
 
 <br>
 
+<h2>Contents:</h2>
+
 <li>Python</li>
 <li>SQL</li>
 <li>Linux</li>
 
 <br>
-
-Certificate:
-<img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~ENRASN5P4CZQ/CERTIFICATE_LANDING_PAGE~ENRASN5P4CZQ.jpeg" alt="View certificate for Miguel Filiol de Raimond, Google Cybersecurity, offered through Coursera. Those who earn the Google Cybersecurity Certificate have completed eight courses, developed by Google, that include hands-on, practice-based assessments and are designed to prepare them for entry-level roles in cybersecurity. They are competent in beginner-level Python, Linux, SQL, Security Information and Event Management (SIEM) tools, and Intrusion Detection Systems (IDS). They know how to identify common cybersecurity risks, threats, and vulnerabilities, as well as the techniques to mitigate."/>
-
-Certificate for Miguel Filiol de Raimond, Google Cybersecurity, offered through Coursera. 
-
-Those who earn the Google Cybersecurity Certificate have completed eight courses, developed by Google, that include hands-on, practice-based assessments and are designed to prepare them for entry-level roles in cybersecurity. 
-
-They are competent in beginner-level Python, Linux, SQL, Security Information and Event Management (SIEM) tools, and Intrusion Detection Systems (IDS). They know how to identify common cybersecurity risks, threats, and vulnerabilities, as well as the techniques to mitigate.
-
-
-***The focus of this Portfolio was to gather, improve and complete activies related to Cyber Security and presented in Google's Professional Cyber Security Specialization offered through Coursera.*** <br>
 
 Play It Safe: Manage Security Risks - ✔️
   <li>Botium Toys Audit</li>
