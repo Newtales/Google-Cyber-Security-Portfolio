@@ -33,11 +33,11 @@ It taught me new technical skills in:
 
 And I was able to brush up on a lot of fundamental information and develop even further in the following skills:
 
-<h2>Contents:</h2>
-
 <li>Python</li>
 <li>SQL</li>
 <li>Linux</li>
+
+<h2>Contents:</h2>
 
 <br>
 
